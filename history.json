@@ -463,5 +463,10 @@
     "channel": "radiomas104-9",
     "reason": "sin video en vivo",
     "date": "2026-05-19"
+  },
+  {
+    "channel": "latinzeriantv",
+    "reason": "solo suscriptores",
+    "date": "2026-05-19"
   }
 ]
