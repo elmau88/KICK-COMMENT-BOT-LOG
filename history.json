@@ -1,4 +1,17 @@
 [
-  "caosv",
-  "gallocsldp"
+  {
+    "channel": "caosv",
+    "reason": "comentado",
+    "date": "2026-05-19"
+  },
+  {
+    "channel": "gallocsldp",
+    "reason": "comentado",
+    "date": "2026-05-19"
+  },
+  {
+    "channel": "gastonpuyares",
+    "reason": "comentado",
+    "date": "2026-05-19"
+  }
 ]
