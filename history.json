@@ -243,5 +243,10 @@
     "channel": "elsonico-2314",
     "reason": "sin video en vivo",
     "date": "2026-05-19"
+  },
+  {
+    "channel": "silve17",
+    "reason": "comentado",
+    "date": "2026-05-19"
   }
 ]
