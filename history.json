@@ -5362,5 +5362,13 @@
     "channel": "sangreazull",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "jus7bk",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que microfone você usa cara? o áudio tá muuuito claro",
+    "game": "Counter-Strike 2"
   }
 ]
