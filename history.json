@@ -5995,5 +5995,13 @@
     "channel": "spleyter1",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "jeffinmicai",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que programa você usa pra editar suas cenas? tá muito show, manooo",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
