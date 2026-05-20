@@ -968,5 +968,13 @@
     "channel": "andres-g-01",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "666torino",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PREGUNTA DE AUDIENCIA/COMUNIDAD",
+    "comment": "qué tan difíciiil fue al principio crecer aquí en kick bro @666torino",
+    "game": "Conversando"
   }
 ]
