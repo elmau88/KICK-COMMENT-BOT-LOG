@@ -2499,5 +2499,13 @@
     "channel": "lachiworld",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "oddmike",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "este juego a veces me baja los fps bien caaañón xd",
+    "game": "Minecraft"
   }
 ]
