@@ -785,5 +785,13 @@
     "channel": "el_primasoff",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "uzimvp",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "este juego consume mucha RAM, me bajóóóó el rendimiento bro @uzimvp",
+    "game": "Conversando"
   }
 ]
