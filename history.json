@@ -3837,5 +3837,14 @@
     "channel": "richiarg",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "ontherooad",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que software de streaming você uuusa? a qualidade tá show, véi @ontherooad",
+    "comment2": "muito show o ângulo da câmera, ficouuuu demais, mano @ontherooad",
+    "game": "IRL"
   }
 ]
