@@ -1650,5 +1650,13 @@
     "channel": "fantadep",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "dani-fuentes",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PROPUESTA DE COLABORACIÓN",
+    "comment": "oye bro, me gustaría juuugar un rato contigo un día de estos",
+    "game": "Desconocido"
   }
 ]
