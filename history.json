@@ -3902,5 +3902,14 @@
     "channel": "gerardonoc",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "brmadfr",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferente do meu stream, eu uso ooooutra técnica de ataque véi @brmadfr",
+    "comment2": "seus combos estão demais, mano, tá rápiiido e fluido @brmadfr",
+    "game": "Star Ocean: First Departure R"
   }
 ]
