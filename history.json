@@ -4478,5 +4478,13 @@
     "channel": "hiramvg",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "johnny-lopes",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo é brabo mas o fps dá uns cortes, maaaano @johnny-lopes",
+    "game": "Conversando"
   }
 ]
