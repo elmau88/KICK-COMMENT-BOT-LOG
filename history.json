@@ -6456,5 +6456,13 @@
     "channel": "rambo-kick",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "yankeesnow",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que câmera você usa mano? a imagem tá muuuuito show @yankeesnow",
+    "game": "Tibia"
   }
 ]
