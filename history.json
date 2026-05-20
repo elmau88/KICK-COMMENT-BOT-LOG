@@ -5075,5 +5075,10 @@
     "channel": "alt0matico",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "ceoleogg",
+    "reason": "solo seguidores",
+    "date": "2026-05-20"
   }
 ]
