@@ -5796,5 +5796,13 @@
     "channel": "gonzagedef",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "kpocketk",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo sempre dá lag quando streamo, você peeeercebe isso também? @kpocketk",
+    "game": "The Legend of Zelda: Tears of the Kingdom"
   }
 ]
