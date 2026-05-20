@@ -1122,5 +1122,10 @@
     "channel": "balancedq",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "thesoratv",
+    "reason": "solo suscriptores",
+    "date": "2026-05-20"
   }
 ]
