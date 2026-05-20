@@ -835,5 +835,14 @@
     "channel": "elmascopado",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "djdanigd",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "mi cpu se vuelve loco al streamear geometry daaaash bro @djdanigd",
+    "comment2": "me encaaaanta el diseño de tu overlay bro @djdanigd",
+    "game": "Geometry Dash"
   }
 ]
