@@ -6474,5 +6474,13 @@
     "channel": "elberthswift",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "rodil",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "eeeesse jogo é pesado pra streamar, como você otimiza isso mano @rodil",
+    "game": "League of Legends"
   }
 ]
