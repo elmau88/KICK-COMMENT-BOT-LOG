@@ -2077,5 +2077,14 @@
     "channel": "baldettv",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "gugaaalmeida",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que configuraaação de bitrate você usa mano, tá show demais @gugaaalmeida",
+    "comment2": "show a edição do seu stream, tá demaiiiis mano",
+    "game": "Conversando"
   }
 ]
