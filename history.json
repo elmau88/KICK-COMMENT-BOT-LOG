@@ -2975,5 +2975,14 @@
     "channel": "nachitorn",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "fem2",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferente do meu stream, eu busco maaais passes longos cara @fem2",
+    "comment2": "a jogada tava deeeemais, mó sintonia entre os jogadores, véi @fem2",
+    "game": "FIFA 16"
   }
 ]
