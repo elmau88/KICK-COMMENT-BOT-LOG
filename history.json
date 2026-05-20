@@ -6648,5 +6648,13 @@
     "channel": "hotlinemiame",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "kzznx01",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como você faz pra manteeeer a galera engajada durante o jogo? @kzznx01",
+    "game": "Forza Horizon 6"
   }
 ]
