@@ -932,5 +932,14 @@
     "channel": "lorry-pr",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "elowg",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PREGUNTA DE AUDIENCIA/COMUNIDAD",
+    "comment": "qué trucos tienes para mantener a la genteeee interesada bro",
+    "comment2": "se siente muy buen ritmooo en tu cocina bro @elowg",
+    "game": "Cooking"
   }
 ]
