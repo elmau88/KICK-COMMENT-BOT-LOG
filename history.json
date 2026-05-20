@@ -2339,5 +2339,13 @@
     "channel": "gugaroto",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "bomreparoassistenciaog",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "sua iiiiluminação tá show cara, realça bem os detalhes do objeto",
+    "game": "Movierooms"
   }
 ]
