@@ -5289,5 +5289,14 @@
     "channel": "luis-robatto",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "apoptosenk",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que câmera vooocê usa mano, tá muito show a imagem @apoptosenk",
+    "comment2": "demais a forma como voooocê leu o jogo, mano",
+    "game": "Counter-Strike 2"
   }
 ]
