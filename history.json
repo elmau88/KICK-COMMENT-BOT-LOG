@@ -5882,5 +5882,13 @@
     "channel": "estudio-aguilucho",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "bhaalzin",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "seu layout de chat tá bem organizadoooo, fica show cara",
+    "game": "League of Legends"
   }
 ]
