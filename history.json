@@ -6573,5 +6573,13 @@
     "channel": "vxleria1",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "gutolimalima",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "coooomo você faz pra manter a galera engajada no chat véi",
+    "game": "Conversando"
   }
 ]
