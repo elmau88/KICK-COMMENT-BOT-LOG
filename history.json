@@ -5841,5 +5841,13 @@
     "channel": "akcloud",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "nilgame23",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferente do meu setup, seu controle é bem eeestiloso, show mano @nilgame23",
+    "game": "Yu-Gi-Oh! Master Duel"
   }
 ]
