@@ -5953,5 +5953,13 @@
     "channel": "pirataatr3ze",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "peralli",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que placa de captura voooocê usa mano? qualidade tá demais",
+    "game": "Marvel Rivals"
   }
 ]
