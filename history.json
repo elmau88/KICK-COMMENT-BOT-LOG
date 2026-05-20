@@ -2960,5 +2960,10 @@
     "channel": "vtr0020",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "eltegg1",
+    "reason": "sin video en vivo",
+    "date": "2026-05-20"
   }
 ]
