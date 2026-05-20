@@ -2272,5 +2272,13 @@
     "channel": "nimble-allan",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "vlaixt",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como voooocê engaja seu chat durante as partidas, cara?",
+    "game": "VALORANT"
   }
 ]
