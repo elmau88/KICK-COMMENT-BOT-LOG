@@ -623,5 +623,10 @@
     "channel": "roblamn",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "gathico",
+    "reason": "solo suscriptores",
+    "date": "2026-05-20"
   }
 ]
