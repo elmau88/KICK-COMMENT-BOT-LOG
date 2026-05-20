@@ -1635,5 +1635,10 @@
     "channel": "movies24live7",
     "reason": "solo seguidores",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "sonycxtv",
+    "reason": "solo suscriptores",
+    "date": "2026-05-20"
   }
 ]
