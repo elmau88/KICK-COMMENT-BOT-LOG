@@ -5609,5 +5609,13 @@
     "channel": "peix0t4",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "rknashy",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que captura você usa mano? a imagem tá muito shooow",
+    "game": "Where Winds Meet"
   }
 ]
