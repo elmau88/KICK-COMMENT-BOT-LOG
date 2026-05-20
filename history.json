@@ -5229,5 +5229,13 @@
     "channel": "erfeti",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "ezequielresident",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "ELOGIO DE PRODUÇÃO",
+    "comment": "essa combinação de cores do oveeerlay tá demais mano",
+    "game": "Super Mario All-Stars"
   }
 ]
