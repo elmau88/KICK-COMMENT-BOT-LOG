@@ -6026,5 +6026,14 @@
     "channel": "tatoxx01",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "mellloo",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que programa você usa para capturar a telaaa mano? tá show @mellloo",
+    "comment2": "mano, a transição do mapa ficou shooow demais",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
