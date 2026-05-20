@@ -2568,5 +2568,14 @@
     "channel": "igryss",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "chatroncio",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "PREGUNTA DE SETUP TÉCNICO",
+    "comment": "qué capturadora uuusas bro, la imagen se ve súper chida @chatroncio",
+    "comment2": "ese entorno se ve impresionante bro, bien chiiiido xd",
+    "game": "Forza Horizon 6"
   }
 ]
