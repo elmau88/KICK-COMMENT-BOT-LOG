@@ -1987,5 +1987,13 @@
     "channel": "paulistasp",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "vandit666",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "COMPARACIÓN DIRECTA",
+    "comment": "interesante yo en mi stream uso otro estilo pa la cuentaaaa regresiva",
+    "game": "ARC Raiders"
   }
 ]
