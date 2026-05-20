@@ -5511,5 +5511,13 @@
     "channel": "los-lche1",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "iury-cgm",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "meus fps caem muito quando to nessa fase cara, roooolê complicado",
+    "game": "Forza Horizon 6"
   }
 ]
