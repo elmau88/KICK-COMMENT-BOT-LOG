@@ -6152,5 +6152,13 @@
     "channel": "z-dc",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "lordmons",
+    "reason": "comentado",
+    "date": "2026-05-20",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "seu overlay tá bem dividido mano, ajuuuda a visualizar tudo @lordmons",
+    "game": "World of Warcraft"
   }
 ]
