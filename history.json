@@ -3356,5 +3356,10 @@
     "channel": "tiozangado",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "furiousxvr",
+    "reason": "solo seguidores",
+    "date": "2026-05-20"
   }
 ]
