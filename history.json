@@ -3717,5 +3717,10 @@
     "channel": "ntpstream",
     "reason": "sin video en vivo",
     "date": "2026-05-20"
+  },
+  {
+    "channel": "kerovel-siannodel",
+    "reason": "solo seguidores",
+    "date": "2026-05-20"
   }
 ]
