@@ -11480,5 +11480,14 @@
     "channel": "jammobile",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "mochileira01",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que software você usa pra editar os clipes? tá muuuuito show",
+    "comment2": "a jogada de flanco foi shoooow, mano! @mochileira01",
+    "game": "VALORANT"
   }
 ]
