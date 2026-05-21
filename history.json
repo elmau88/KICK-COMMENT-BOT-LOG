@@ -17173,5 +17173,13 @@
     "channel": "ok-yannis",
     "reason": "solo seguidores",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "doublelag",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE SETUP TÉCNICO",
+    "comment": "qué soooftware usas para tus transiciones bro, se ven chidas",
+    "game": "Minecraft"
   }
 ]
