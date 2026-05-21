@@ -11279,5 +11279,13 @@
     "channel": "elbitterx",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "frabao",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "caraca, esse mapa demooora pra carregar demais na stream véi @frabao",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
