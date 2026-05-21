@@ -14184,5 +14184,13 @@
     "channel": "doceveneno",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "thelastboo",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE SETUP TÉCNICO",
+    "comment": "qué miiiicrófono estás usando? suena bien chido bro @thelastboo",
+    "game": "Gears 5"
   }
 ]
