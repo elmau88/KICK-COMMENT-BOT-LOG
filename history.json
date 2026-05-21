@@ -14546,5 +14546,13 @@
     "channel": "irmayjorge",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "tvamares",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que miiiicrofone você usa mano, o som tá show demais @tvamares",
+    "game": "Podcasts"
   }
 ]
