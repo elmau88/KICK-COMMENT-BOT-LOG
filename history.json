@@ -11608,5 +11608,13 @@
     "channel": "ivanoff-98",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "marquinhosmda",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que fps você tá capturando véi, a imageeeem tá show @marquinhosmda",
+    "game": "Call of Duty: Black Ops 7"
   }
 ]
