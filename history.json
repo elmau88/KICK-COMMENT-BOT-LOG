@@ -13166,5 +13166,13 @@
     "channel": "fullerash",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "kissidane",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo seeempre dá lags quando o chat tá bombando, né véi @kissidane",
+    "game": "Conversando"
   }
 ]
