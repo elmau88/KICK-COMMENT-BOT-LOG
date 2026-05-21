@@ -9339,5 +9339,13 @@
     "channel": "iglesia-cuadrangular-cali",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "lilhique",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "eu por sua vez nunca usei cronômetro no stream, maneiro deeeemais",
+    "game": "Red Dead Redemption II"
   }
 ]
