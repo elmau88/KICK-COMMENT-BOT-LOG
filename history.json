@@ -12922,5 +12922,13 @@
     "channel": "bysanic",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "peixinhoneves",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "seu layout de texto tá bem posicionadinho cara, shooow de bola @peixinhoneves",
+    "game": "Minecraft"
   }
 ]
