@@ -11704,5 +11704,14 @@
     "channel": "cristianvaldiviaq",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "lolobranco",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo tem uns buuugs chatos que travam tudo, véi @lolobranco",
+    "comment2": "a aaaabertura tá sinistra, muito show mano",
+    "game": "Dead By Daylight"
   }
 ]
