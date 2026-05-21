@@ -12770,5 +12770,14 @@
     "channel": "tastacr",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "gamerperes",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que microfone você usa mano, o ááááudio tá bem limpo @gamerperes",
+    "comment2": "shooow de design, a identidade visual tá demais, mano",
+    "game": "Conversando"
   }
 ]
