@@ -11556,5 +11556,13 @@
     "channel": "zeldactm",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "mattosplaygames",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo dá lag demais, como voooocê resolve isso mano?",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
