@@ -11266,5 +11266,13 @@
     "channel": "azvel-w",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "rmtibia",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferenteee do meu stream, o seu tem mais elementos visuais cara",
+    "game": "Tibia"
   }
 ]
