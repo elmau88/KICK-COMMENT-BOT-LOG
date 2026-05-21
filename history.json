@@ -13405,5 +13405,14 @@
     "channel": "akatellez",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "drugstoremarc",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como voooocê cuida da interação com sua audiência nesse tempão, mano? @drugstoremarc",
+    "comment2": "a iluminação tá demais, véi, muiiito show",
+    "game": "Conversando"
   }
 ]
