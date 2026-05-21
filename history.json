@@ -10811,5 +10811,13 @@
     "channel": "hitana01",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "outrosjogos",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "ELOGIO PESSOAL + PROPOSTA",
+    "comment": "cara, dá pra ver que você curte esse jooogo, a gente podia jogar juntos",
+    "game": "Assassin's Creed Valhalla"
   }
 ]
