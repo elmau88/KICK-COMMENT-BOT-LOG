@@ -8262,5 +8262,14 @@
     "channel": "dennistuapanta",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "zaryatch",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como você mantém o chat tão animado durante essa partida, iiiirmão?",
+    "comment2": "maneiro demais o jeito que tu controooola esse personagem, véi",
+    "game": "Deadlock"
   }
 ]
