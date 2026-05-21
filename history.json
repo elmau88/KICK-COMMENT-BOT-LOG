@@ -16536,5 +16536,13 @@
     "channel": "lachama97",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "gasteci-10",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "COMPARACIÓN DIRECTA",
+    "comment": "a diferenciaaa de mi stream, el tuyo tiene más detalles visuales bro @gasteci-10",
+    "game": "Counter-Strike 2"
   }
 ]
