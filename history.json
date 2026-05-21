@@ -14627,5 +14627,10 @@
     "channel": "futbolbasico",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "nautiluslink",
+    "reason": "solo seguidores",
+    "date": "2026-05-21"
   }
 ]
