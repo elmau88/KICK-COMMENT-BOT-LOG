@@ -8281,5 +8281,10 @@
     "channel": "el-gusano02",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "brites",
+    "reason": "solo seguidores",
+    "date": "2026-05-21"
   }
 ]
