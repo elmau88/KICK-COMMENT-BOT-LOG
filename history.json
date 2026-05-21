@@ -14613,5 +14613,14 @@
     "channel": "badmigue",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "kazavila",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que overlay você usa manooo, tá muito incrível assim",
+    "comment2": "a produuução do seu stream tá show, véi @kazavila",
+    "game": "Subnautica"
   }
 ]
