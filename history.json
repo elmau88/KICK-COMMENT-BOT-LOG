@@ -10244,5 +10244,14 @@
     "channel": "fransampa",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "zenatt1",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferente do meu stream, você usa mais cooor, tá show cara @zenatt1",
+    "comment2": "massa a interação que você teve com a galeraaaa, véi @zenatt1",
+    "game": "Conversando"
   }
 ]
