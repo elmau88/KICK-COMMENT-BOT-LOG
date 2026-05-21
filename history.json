@@ -13696,5 +13696,14 @@
     "channel": "segadorm",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "capzeras",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que programa você usa pra capturar a tela manoooo, tá show",
+    "comment2": "muito show a formaaaa como você controla os monstros, véi @capzeras",
+    "game": "Tibia"
   }
 ]
