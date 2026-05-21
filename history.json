@@ -12623,5 +12623,13 @@
     "channel": "gaendaza",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "zein-luigi",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que programa vooocê usa pra captar game no pc, cara? @zein-luigi",
+    "game": "For the King II"
   }
 ]
