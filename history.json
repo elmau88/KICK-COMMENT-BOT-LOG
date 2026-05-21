@@ -9467,5 +9467,13 @@
     "channel": "novoagaming",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "littlekzin",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo corta meu fps, como você controla isso, manoooo?",
+    "game": "Cuphead"
   }
 ]
