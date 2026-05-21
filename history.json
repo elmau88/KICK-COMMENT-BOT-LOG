@@ -17662,5 +17662,14 @@
     "channel": "kayshida",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "tomas-arg0",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE AUDIENCIA/COMUNIDAD",
+    "comment": "qué tal va tu interaaacción con el chat bro, se siente activa? @tomas-arg0",
+    "comment2": "me gusta el ritmo de tu directo, estááá chido bro @tomas-arg0",
+    "game": "Counter-Strike 2"
   }
 ]
