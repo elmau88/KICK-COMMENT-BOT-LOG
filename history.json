@@ -10263,5 +10263,14 @@
     "channel": "sirastrald",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "gamedebriefing",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "tô vejo que as alertas não atrapalham a gameeeplay cara show @gamedebriefing",
+    "comment2": "show de jogada, o ritmo tá demaiiiis, mano! @gamedebriefing",
+    "game": "Super Metroid"
   }
 ]
