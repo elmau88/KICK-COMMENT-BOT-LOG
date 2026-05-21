@@ -12521,5 +12521,13 @@
     "channel": "maaaisan",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "motaxgames",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como você mantém a inteeeração na sua live cara? @motaxgames",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
