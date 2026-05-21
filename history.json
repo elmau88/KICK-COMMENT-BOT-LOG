@@ -15138,5 +15138,13 @@
     "channel": "roboxtv",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "oscarrinthetrip",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE AUDIENCIA/COMUNIDAD",
+    "comment": "cómo deciiides qué contenido compartir con tu comunidad bro @oscarrinthetrip",
+    "game": "Poker"
   }
 ]
