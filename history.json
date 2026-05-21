@@ -16373,5 +16373,13 @@
     "channel": "dj-athome",
     "reason": "solo seguidores",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "wohnjesley",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que sooooftware você usa pra gravar o áudio, tá show demais",
+    "game": "Conversando"
   }
 ]
