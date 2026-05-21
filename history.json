@@ -13001,5 +13001,13 @@
     "channel": "floydw",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "gnomin",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que câmera você tá usando? a qualidade da imagem tá show deeemais @gnomin",
+    "game": "EA Sports FC 26"
   }
 ]
