@@ -17094,5 +17094,13 @@
     "channel": "werlleton",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "elmannny",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE SETUP TÉCNICO",
+    "comment": "qué softwareee usas para tu stream? se ve bien chido bro @elmannny",
+    "game": "VALORANT"
   }
 ]
