@@ -10824,5 +10824,13 @@
     "channel": "depth-s",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "luangameplay",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "SOLIDARIEDADE DE STREAMER NOVO",
+    "comment": "é complicado crescer no kick, eu taaaambém tô nessa, cara",
+    "game": "Movierooms"
   }
 ]
