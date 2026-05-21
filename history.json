@@ -9090,5 +9090,13 @@
     "channel": "agvst1njfkl",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "jumperound",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogoooo dá uns lag danados enquanto streamo, sacou mano @jumperound",
+    "game": "Desconocido"
   }
 ]
