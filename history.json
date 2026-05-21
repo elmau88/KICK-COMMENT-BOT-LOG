@@ -10452,5 +10452,13 @@
     "channel": "usurpas",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "olivernico",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "COMPARAÇÃO DIRETA",
+    "comment": "diferente do meu stream, mas sua gameplay tá demaiiis, cara @olivernico",
+    "game": "Neverness to Everness"
   }
 ]
