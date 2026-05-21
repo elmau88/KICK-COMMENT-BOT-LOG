@@ -11997,5 +11997,13 @@
     "channel": "zopa7",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "creatorsgv",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "esse cenário tá muuuuito bem construído, curti demais a iluminação véi",
+    "game": "Grime"
   }
 ]
