@@ -12411,5 +12411,13 @@
     "channel": "soldierboystrike",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "opaulorocha",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que configuração de bitrate você usa pra essaaaa qualidade, mano? @opaulorocha",
+    "game": "Conversando"
   }
 ]
