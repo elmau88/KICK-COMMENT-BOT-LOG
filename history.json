@@ -11216,5 +11216,13 @@
     "channel": "dece13",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "pedrovitorofc",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo faz o pc travaaar muito quando streamo mano @pedrovitorofc",
+    "game": "Dead By Daylight"
   }
 ]
