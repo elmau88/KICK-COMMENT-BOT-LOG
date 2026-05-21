@@ -13066,5 +13066,13 @@
     "channel": "diegodtorrez",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "ofaiska",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo pesa muito na minha stream, como você faaaz? @ofaiska",
+    "game": "Counter-Strike 2"
   }
 ]
