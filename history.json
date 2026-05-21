@@ -8433,5 +8433,14 @@
     "channel": "nico-ovz",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "mamutelive",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "comooo você faz pra deixar a galera engajada durante os jogos mano",
+    "comment2": "show a organização do seu layout, tá muiiito maneiro, véi @mamutelive",
+    "game": "Fortnite"
   }
 ]
