@@ -10723,5 +10723,14 @@
     "channel": "beefco",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "liipeg",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "tô curtindo muito esseees detalhes do layout, bem pensado cara",
+    "comment2": "show de edição, tá tudoooo no capricho, véi @liipeg",
+    "game": "EA Sports FC 26"
   }
 ]
