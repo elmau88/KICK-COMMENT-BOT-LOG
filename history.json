@@ -14743,5 +14743,14 @@
     "channel": "misterycapos",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "orbns",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "OBSERVAÇÃO DE CRIADOR",
+    "comment": "caraca, essa iluminação tá bem difereeente, bem interessante, show mano",
+    "comment2": "muito show essa interação com a gaaalera, véi @orbns",
+    "game": "Chat Roulette"
   }
 ]
