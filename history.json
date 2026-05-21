@@ -14775,5 +14775,13 @@
     "channel": "dizamora",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "blastxrhq",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "ya intenté streamear esto y mi pc aaapenas aguanta xd @blastxrhq",
+    "game": "VALORANT"
   }
 ]
