@@ -8196,5 +8196,13 @@
     "channel": "kartelboyz",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "roxasbr",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que ooooverlay você tá usando mano? tá demais isso aqui",
+    "game": "Tabletop RPGs"
   }
 ]
