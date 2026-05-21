@@ -13934,5 +13934,13 @@
     "channel": "conraelbona2",
     "reason": "solo seguidores",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "tioberto",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PREGUNTA DE SETUP TÉCNICO",
+    "comment": "qué micrófono usas bro suuuena bien chido el audio",
+    "game": "Conversando"
   }
 ]
