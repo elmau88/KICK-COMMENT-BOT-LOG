@@ -8818,5 +8818,13 @@
     "channel": "mczeus19",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "akhenaton-or",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "INSIDER DE STREAMER",
+    "comment": "esse jogo dá aquele lag no stream cara, tem soluuuução? @akhenaton-or",
+    "game": "Counter-Strike 2"
   }
 ]
