@@ -8617,5 +8617,10 @@
     "channel": "02sid20",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "blitzg3",
+    "reason": "solo seguidores",
+    "date": "2026-05-21"
   }
 ]
