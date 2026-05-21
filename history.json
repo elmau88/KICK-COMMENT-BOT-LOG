@@ -11448,5 +11448,13 @@
     "channel": "gabomarti",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "tiokakarotoo",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que softwareeee você usa pra streamar? a qualidade tá show demais @tiokakarotoo",
+    "game": "Aion 2"
   }
 ]
