@@ -19009,5 +19009,10 @@
     "channel": "lapostaenpareja",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "sovl",
+    "reason": "solo seguidores",
+    "date": "2026-05-21"
   }
 ]
