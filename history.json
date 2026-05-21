@@ -13314,5 +13314,13 @@
     "channel": "slernin",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "raffaeldemi",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE SETUP TÉCNICO",
+    "comment": "que programa de captura voooocê usa? a qualidade tá demais, véi @raffaeldemi",
+    "game": "Grand Theft Auto V (GTA)"
   }
 ]
