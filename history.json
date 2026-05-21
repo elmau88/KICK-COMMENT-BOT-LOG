@@ -14083,5 +14083,13 @@
     "channel": "zerocolores",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "correadam",
+    "reason": "comentado",
+    "date": "2026-05-21",
+    "archetype": "PERGUNTA DE AUDIÊNCIA",
+    "comment": "como você mantééém a galera engajada durante as partidas cara",
+    "game": "Call of Duty: Warzone"
   }
 ]
