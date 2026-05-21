@@ -14491,5 +14491,10 @@
     "channel": "zense-0",
     "reason": "sin video en vivo",
     "date": "2026-05-21"
+  },
+  {
+    "channel": "radio-anglicana",
+    "reason": "solo emotes",
+    "date": "2026-05-21"
   }
 ]
