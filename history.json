@@ -21134,5 +21134,10 @@
     "channel": "cholillo-0",
     "reason": "sin video en vivo",
     "date": "2026-05-22"
+  },
+  {
+    "channel": "danivox",
+    "reason": "solo seguidores",
+    "date": "2026-05-22"
   }
 ]
