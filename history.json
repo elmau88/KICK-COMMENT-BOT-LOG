@@ -26388,5 +26388,13 @@
     "channel": "zeenaku",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "naizerdota",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "Dota 2",
+    "comment": "Cual es tu combo favorito, tienes discooord",
+    "game": "Dota 2"
   }
 ]
