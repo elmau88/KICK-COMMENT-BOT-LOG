@@ -22657,5 +22657,13 @@
     "channel": "canalctr",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "svaz-filmes",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "LurkerReveal",
+    "comment": "faz tempo que te assisto mas e a primeira vez que eeescrevo, tem algum server @svaz-filmes",
+    "game": "Conversando"
   }
 ]
