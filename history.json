@@ -27297,5 +27297,14 @@
     "channel": "spartanopink",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "dk-caster",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "Dota 2",
+    "comment": "Prefieres carry o support, tienes algun serveeer",
+    "comment2": "Prefieres ganking o farming, como entro a tu comunidad @dk-caster",
+    "game": "Dota 2"
   }
 ]
