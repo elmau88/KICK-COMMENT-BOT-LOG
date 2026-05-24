@@ -26325,5 +26325,10 @@
     "archetype": "League of Legends",
     "comment": "Prefieres jungla o mid, donde te puedo encontrar fuera de aqui",
     "game": "League of Legends"
+  },
+  {
+    "channel": "vanta-core",
+    "reason": "solo emotes",
+    "date": "2026-05-24"
   }
 ]
