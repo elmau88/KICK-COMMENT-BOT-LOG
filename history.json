@@ -30567,5 +30567,14 @@
     "channel": "caflakeland",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "radiocorporacion",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "Music",
+    "comment": "Cual es tu instrumento favorito, como entro a tu comunidad @radiocorporacion",
+    "comment2": "Usas hardware o todo software, donde chateas con tu comuniiidad",
+    "game": "Music Stations"
   }
 ]
