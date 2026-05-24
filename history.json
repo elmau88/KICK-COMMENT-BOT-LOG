@@ -23671,5 +23671,14 @@
     "channel": "fabricietv",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "djemerson-gamertv",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "Genérico",
+    "comment": "como vai tudo, tem alguma rede ou algo assim @djemerson-gamertv",
+    "comment2": "qual jooogo é esse, tem algum server @djemerson-gamertv",
+    "game": "Desconocido"
   }
 ]
