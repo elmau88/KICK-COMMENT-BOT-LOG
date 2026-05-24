@@ -23641,5 +23641,14 @@
     "channel": "saullo",
     "reason": "solo seguidores",
     "date": "2026-05-24"
+  },
+  {
+    "channel": "bielgr14",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "LurkerReveal",
+    "comment": "nao costumo escrever mas seu stream merece o comentario, tem algum server",
+    "comment2": "Que música você gosta, onde você chata com sua comunidade @bielgr14",
+    "game": "IRL"
   }
 ]
