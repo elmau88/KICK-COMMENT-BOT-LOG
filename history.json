@@ -21933,5 +21933,10 @@
     "archetype": "Genérico",
     "comment": "que tal o stream, tem algum server",
     "game": "Desconocido"
+  },
+  {
+    "channel": "subarukill",
+    "reason": "solo suscriptores",
+    "date": "2026-05-24"
   }
 ]
