@@ -34955,5 +34955,14 @@
     "archetype": "Genérico",
     "comment": "que juego es ese, donde chateas con tu comunidad",
     "game": "Desconocido"
+  },
+  {
+    "channel": "schumagames",
+    "reason": "comentado",
+    "date": "2026-05-24",
+    "archetype": "Genérico",
+    "comment": "que tal o stream, tem alguma rede ou algo assim",
+    "comment2": "qual jogo é esse, tem alguma rede ou algo assim @schumagames",
+    "game": "Might & Magic Fates: The Trading Card Game"
   }
 ]
