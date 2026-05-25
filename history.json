@@ -36506,5 +36506,14 @@
     "archetype": "Genérico",
     "comment": "que tal el stream, donde chateas con tu comunidad",
     "game": "Conversando"
+  },
+  {
+    "channel": "pelokogamer",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "nao tinha escrito mas tenho assistido seus streams, tem telegram ou discord @pelokogamer",
+    "comment2": "primeira vez aqui, tem alguma rede ou algo assim @pelokogamer",
+    "game": "Desconocido"
   }
 ]
