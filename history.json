@@ -3530,5 +3530,13 @@
     "channel": "benitosdr",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "on-lucca",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "siempre te veo pero nunca habia escrito, como te escribo bro @on-lucca",
+    "game": "Minecraft"
   }
 ]
