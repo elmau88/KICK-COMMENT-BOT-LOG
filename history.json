@@ -1843,5 +1843,14 @@
     "channel": "017pipe",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "dblackcs",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "nao tinha escrito mas tenho assistido seus streaaams, tem alguma rede ou algo assim @dblackcs",
+    "comment2": "Qual é sua smoke favorita, onde posso te adicionar cara",
+    "game": "Counter-Strike 2"
   }
 ]
