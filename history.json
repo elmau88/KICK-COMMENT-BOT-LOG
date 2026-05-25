@@ -1329,5 +1329,13 @@
     "channel": "ac-deportes",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "otiuigor",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Euro Truck Simulator 2",
+    "comment": "O que acha dos gráficooos, tem algum server",
+    "game": "Euro Truck Simulator 2"
   }
 ]
