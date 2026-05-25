@@ -3311,5 +3311,13 @@
     "channel": "maurooakd",
     "reason": "solo emotes",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "caritafake",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Counter-Strike",
+    "comment": "Que opinas de CS2, como te escribo bro",
+    "game": "Counter-Strike 2"
   }
 ]
