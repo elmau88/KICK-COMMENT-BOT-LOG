@@ -3449,5 +3449,13 @@
     "archetype": "Minecraft",
     "comment": "Juegas Hypixel, como entro a tu comunidad",
     "game": "Minecraft"
+  },
+  {
+    "channel": "horizonrc",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Raft",
+    "comment": "Cuanto llevas jugando Raft, como te contacto bro",
+    "game": "Raft"
   }
 ]
