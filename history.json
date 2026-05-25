@@ -55,5 +55,13 @@
     "channel": "ybenicioy",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "tooto-01",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Counter-Strike",
+    "comment": "Juegas en PC, donde te puedo encontrar fuuuuera de aqui",
+    "game": "Counter-Strike 2"
   }
 ]
