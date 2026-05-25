@@ -2883,5 +2883,13 @@
     "channel": "flordelotus18",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "irlontv",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "siempre te veo pero nunca habia escrito, tienes telegram o discord @irlontv",
+    "game": "IRL"
   }
 ]
