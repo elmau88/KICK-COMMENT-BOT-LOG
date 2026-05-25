@@ -283,5 +283,13 @@
     "channel": "akalius",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "gamesdoabandono",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Retro",
+    "comment": "Usa CRT ou LCD, tem teleeegram ou discord",
+    "game": "Retro Games"
   }
 ]
