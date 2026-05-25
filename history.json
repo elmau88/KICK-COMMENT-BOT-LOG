@@ -945,5 +945,13 @@
     "archetype": "Cuphead",
     "comment": "Juegas en PC o consola, donde chateas con tu comunidad",
     "game": "Cuphead"
+  },
+  {
+    "channel": "leonidas-lycan",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "faz tempo que te assisto mas e a primeira vez que escrevo, tem algum server @leonidas-lycan",
+    "game": "R.E.P.O."
   }
 ]
