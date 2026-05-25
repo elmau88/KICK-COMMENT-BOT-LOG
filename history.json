@@ -571,5 +571,14 @@
     "channel": "elneciocol",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "remindstreamer",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Counter-Strike",
+    "comment": "Qual é sua posição favorita, tem telegram ou discord @remindstreamer",
+    "comment2": "Qual sua patente, você tem discord",
+    "game": "Counter-Strike 2"
   }
 ]
