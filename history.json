@@ -1951,5 +1951,13 @@
     "channel": "fossil7",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "andersondetona",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "Genérico",
+    "comment": "bom conteúdo cara, você tem discord",
+    "game": "Conversando"
   }
 ]
