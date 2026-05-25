@@ -37326,5 +37326,13 @@
     "channel": "lend9k",
     "reason": "solo seguidores",
     "date": "2026-05-25"
+  },
+  {
+    "channel": "japalab",
+    "reason": "comentado",
+    "date": "2026-05-25",
+    "archetype": "LurkerReveal",
+    "comment": "voce e um dos poucos que gosto de ver no kick, tem algum server",
+    "game": "Pokemon FireRed Version"
   }
 ]
