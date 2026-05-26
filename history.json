@@ -4130,5 +4130,14 @@
     "archetype": "Genérico",
     "comment": "qual jogo é esse, como entro na sua comunidade",
     "game": "Conversando"
+  },
+  {
+    "channel": "vegaa-martinn",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "LurkerReveal",
+    "comment": "te encuentro seguido en el browse y siempre te pongo, donde chateas con tu comunidad @vegaa-martinn",
+    "comment2": "que juego es ese, coooomo me uno a tu grupo bro @vegaa-martinn",
+    "game": "Desconocido"
   }
 ]
