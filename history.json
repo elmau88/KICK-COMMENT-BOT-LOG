@@ -7378,5 +7378,14 @@
     "channel": "ta-cacha",
     "reason": "solo seguidores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "adrimars",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "Dota 2",
+    "comment": "Como va el stream, tienes redes o algo @adrimars",
+    "comment2": "Que opinas del meta actual, cooomo te contacto bro",
+    "game": "Dota 2"
   }
 ]
