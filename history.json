@@ -8043,5 +8043,14 @@
     "channel": "on-tv",
     "reason": "solo suscriptores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "cristal1003radio",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "Music",
+    "comment": "Usas samples, tienes telegram o discord",
+    "comment2": "Que opinas de la IA en musica, como te eeeescribo bro @cristal1003radio",
+    "game": "Music Stations"
   }
 ]
