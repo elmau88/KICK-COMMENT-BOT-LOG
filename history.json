@@ -8447,5 +8447,10 @@
     "archetype": "iRacing",
     "comment": "Cual es tu mejor resultado, tienes redes o algo @carrascalf1",
     "game": "iRacing"
+  },
+  {
+    "channel": "aftergameok",
+    "reason": "solo seguidores",
+    "date": "2026-05-27"
   }
 ]
