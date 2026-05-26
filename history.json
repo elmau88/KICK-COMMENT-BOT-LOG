@@ -7734,5 +7734,13 @@
     "channel": "corasspe",
     "reason": "solo seguidores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "svimon",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "Genérico",
+    "comment": "que juuuuego es ese, tienes telegram o discord @svimon",
+    "game": "Conversando"
   }
 ]
