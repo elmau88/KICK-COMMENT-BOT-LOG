@@ -8270,5 +8270,13 @@
     "channel": "kevinblue",
     "reason": "solo seguidores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "quests-games",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "Genérico",
+    "comment": "cuanto llevas streameando, como me agrego a tu discord",
+    "game": "BioShock Infinite"
   }
 ]
