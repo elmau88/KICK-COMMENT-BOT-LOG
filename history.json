@@ -6106,5 +6106,14 @@
     "channel": "jotta-rp",
     "reason": "solo seguidores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "jagogaming",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "Counter-Strike",
+    "comment": "Que opinas de CS2, tienes algun server",
+    "comment2": "Buen contenido, cooomo te escribo bro @jagogaming",
+    "game": "Counter-Strike 2"
   }
 ]
