@@ -8313,5 +8313,13 @@
     "channel": "bymuela",
     "reason": "solo seguidores",
     "date": "2026-05-26"
+  },
+  {
+    "channel": "kmgame",
+    "reason": "comentado",
+    "date": "2026-05-26",
+    "archetype": "LurkerReveal",
+    "comment": "no suelo escribir pero tu stream se merece el comentario, tienes algun grupo donde unirme",
+    "game": "Desconocido"
   }
 ]
