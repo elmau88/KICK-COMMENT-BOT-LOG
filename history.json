@@ -13505,5 +13505,13 @@
     "channel": "itsragna",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "eldelanota",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "NTE: Neverness to Everness",
+    "comment": "Como va el stream, tienes telegram o discord @eldelanota",
+    "game": "Neverness to Everness"
   }
 ]
