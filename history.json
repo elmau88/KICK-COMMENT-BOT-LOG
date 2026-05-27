@@ -13247,5 +13247,13 @@
     "channel": "thischeating",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "eckodota",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Dota 2",
+    "comment": "Cual fue tu primeeer heroe, tienes telegram o discord @eckodota",
+    "game": "Dota 2"
   }
 ]
