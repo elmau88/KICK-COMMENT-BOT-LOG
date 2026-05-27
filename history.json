@@ -19047,5 +19047,13 @@
     "channel": "bauliinhu",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "xlinestar",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "LurkerReveal",
+    "comment": "vim em silencio um tempo mas tive que escrever, tem algum server",
+    "game": "VALORANT"
   }
 ]
