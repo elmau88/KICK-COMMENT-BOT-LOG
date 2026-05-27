@@ -9721,5 +9721,14 @@
     "archetype": "Genérico",
     "comment": "que juego es ese, me gustaria hablar contigo como te llego @ibigote",
     "game": "Conversando"
+  },
+  {
+    "channel": "ezekerrgames",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Counter-Strike",
+    "comment": "Usas comunicacion por voz, tienes algun server @ezekerrgames",
+    "comment2": "Como va el stream, donde chateas con tu comunidad @ezekerrgames",
+    "game": "Counter-Strike 2"
   }
 ]
