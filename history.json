@@ -9413,5 +9413,13 @@
     "channel": "opticalrr",
     "reason": "solo emotes",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "otro-flah",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "VALORANT",
+    "comment": "Juegas en PC, tiiienes telegram o discord",
+    "game": "VALORANT"
   }
 ]
