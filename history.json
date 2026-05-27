@@ -14482,5 +14482,14 @@
     "channel": "iskyluh",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "pilotonews",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Tibia",
+    "comment": "Qual sua caçada favorita, como entro na sua comunidade",
+    "comment2": "Qual cidade gosta, tem aaaalguma rede ou algo assim",
+    "game": "Tibia"
   }
 ]
