@@ -17418,5 +17418,14 @@
     "channel": "moracci",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "romaotv",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "LurkerReveal",
+    "comment": "nao tinha escrito mas tenho assistido seus streams, você tem discord @romaotv",
+    "comment2": "Ótimo conteúdo, tem algum server",
+    "game": "League of Legends"
   }
 ]
