@@ -8759,5 +8759,13 @@
     "channel": "onlyrgx",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "ponchese",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "LurkerReveal",
+    "comment": "normalmente solo veo pero hoy me anime bro, tienes algun server",
+    "game": "Conversando"
   }
 ]
