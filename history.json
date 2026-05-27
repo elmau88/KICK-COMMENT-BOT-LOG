@@ -12411,5 +12411,13 @@
     "channel": "uchita",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "charlyjoones",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "LurkerReveal",
+    "comment": "llevo tiempo en el stream sin deeecir nada pero aqui voy, tienes telegram o discord @charlyjoones",
+    "game": "Teamfight Tactics"
   }
 ]
