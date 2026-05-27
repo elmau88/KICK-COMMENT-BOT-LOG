@@ -9023,5 +9023,14 @@
     "comment": "buen contenido bro, me gustaria hablar contigo como te llego @frequency5fm",
     "comment2": "como va todo, tienes aaaalgun server @frequency5fm",
     "game": "Conversando"
+  },
+  {
+    "channel": "ultimobeatradio",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Music",
+    "comment": "Tienes musica publicada, donde te puedo agregar bro",
+    "comment2": "Prefieres MIDI o audio, como me uno a tu grupooo bro",
+    "game": "Music Stations"
   }
 ]
