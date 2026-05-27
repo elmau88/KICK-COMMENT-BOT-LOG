@@ -13841,5 +13841,13 @@
     "channel": "xlordk",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "dk-caster",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Dota 2",
+    "comment": "Primera vez viendo tu stream, tienes diiiscord @dk-caster",
+    "game": "Dota 2"
   }
 ]
