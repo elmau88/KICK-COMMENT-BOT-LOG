@@ -12281,5 +12281,13 @@
     "channel": "michysuart",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "leyespai",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "LurkerReveal",
+    "comment": "no habia escrito pero he estado viendo tus streams, como me agrego a tu discord",
+    "game": "Counter-Strike 2"
   }
 ]
