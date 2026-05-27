@@ -9373,5 +9373,14 @@
     "channel": "xpobe",
     "reason": "solo seguidores",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "thedaneck",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Genérico",
+    "comment": "que tal el stream, me gustaria hablar contigo como te llego @thedaneck",
+    "comment2": "sigues seguido aqui, donde chateeeeas con tu comunidad",
+    "game": "Conversando"
   }
 ]
