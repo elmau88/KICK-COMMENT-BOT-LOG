@@ -8584,5 +8584,10 @@
     "archetype": "LurkerReveal",
     "comment": "te encuentro seguido en el browse y siempre te pooongo, tienes algun server",
     "game": "Conversando"
+  },
+  {
+    "channel": "smokeask1",
+    "reason": "solo emotes",
+    "date": "2026-05-27"
   }
 ]
