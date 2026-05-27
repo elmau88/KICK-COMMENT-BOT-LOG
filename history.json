@@ -10420,5 +10420,13 @@
     "archetype": "VALORANT",
     "comment": "Cual fue tu primer agente, donde chateas con tu comunidad",
     "game": "VALORANT"
+  },
+  {
+    "channel": "rambo-kick",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Genérico",
+    "comment": "buen setup bro, donde te puedo encontrar fuera de aqui @rambo-kick",
+    "game": "Conversando"
   }
 ]
