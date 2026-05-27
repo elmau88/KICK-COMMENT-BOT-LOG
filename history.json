@@ -12771,5 +12771,13 @@
     "archetype": "Genérico",
     "comment": "de donde eres, como te contacto bro @wox883",
     "game": "Conversando"
+  },
+  {
+    "channel": "surebetsbot",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Sports",
+    "comment": "Que opinas del deporte, coooomo te escribo bro",
+    "game": "Sports Betting"
   }
 ]
