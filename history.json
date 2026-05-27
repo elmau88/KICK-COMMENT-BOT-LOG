@@ -8589,5 +8589,13 @@
     "channel": "smokeask1",
     "reason": "solo emotes",
     "date": "2026-05-27"
+  },
+  {
+    "channel": "cronicas-promotor",
+    "reason": "comentado",
+    "date": "2026-05-27",
+    "archetype": "Music",
+    "comment": "Tienes Spotify, tienes algun server @cronicas-promotor",
+    "game": "Music Stations"
   }
 ]
