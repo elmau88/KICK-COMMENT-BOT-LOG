@@ -22080,5 +22080,14 @@
     "channel": "vento_ventania1",
     "reason": "solo seguidores",
     "date": "2026-05-28"
+  },
+  {
+    "channel": "cabritorei",
+    "reason": "comentado",
+    "date": "2026-05-28",
+    "archetype": "Genérico",
+    "comment": "que tal o stream, como te escrevo cara @cabritorei",
+    "comment2": "bom seeetup cara, onde você chata com sua comunidade",
+    "game": "Conversando"
   }
 ]
