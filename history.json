@@ -23967,5 +23967,13 @@
     "channel": "xdaren",
     "reason": "solo seguidores",
     "date": "2026-05-31"
+  },
+  {
+    "channel": "voidluca",
+    "reason": "comentado",
+    "date": "2026-05-31",
+    "archetype": "Counter-Strike",
+    "comment": "Qual é sua arma favorita, tem algum server @voidluca",
+    "game": "Counter-Strike 2"
   }
 ]
